@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html>
-
-<html>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -448,7 +446,7 @@ footer {
                 </div>
                 <div class="about-image">
                     <img src="https://imgur.com/VO6OFC1.jpg" alt="ကွန်ပျူတာသင်တန်း">
-                    <img src="" alt="="ကွန်ပျူတာသင်တန်း">
+                   
                 </div>
             </div>
         </div>
